@@ -106,5 +106,18 @@ object Chapter05{
 
         println("Age of the person after correction :"+ person.age)
 
+
+
+
+
+        // 07
+        class Person2 (val fullname: String){
+            val splittedName = fullname.split(" ")
+            val firstName = splittedName(0)
+            val lastName = splittedName(1)
+        }
+
+        val person2 = new Person2("james bond")
+        println(person2.firstName + "+" + person2.lastName)
     }
 }
