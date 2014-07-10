@@ -1,0 +1,8 @@
+Most programming technologies are better learned with various web resources rather than a paper book; this is a case where a book is much more appropriate. The complexity of the material is suited to a full written explanation rather than merely a web search and the volume of concepts and features in the Scala language and library easily justifies the length of this book without any padding.
+
+So far, every chapter is genuinely useful. I can feel actual learning benefit from everything covered. Nothing is annoyingly basic: this book assumes you are comfortable with Java or C# and know all about classes/interfaces/inheritance/exceptions/packages/static/scoping/etc. This book is also actually entertaining. This is partly because Scala is so well designed. Once I get an understanding of a new Scala feature and I can see why it's an improvement and it is genuinely fun. But this book does a great job of organizing the material and walking the reader through everything.
+
+I have written a few personal projects in Scala before reading this book, but this book has been excellent at helping me learn the Scala language/library feature set properly rather than just using it as a Java++.
+
+I'd absolutely recommend this to anyone interested in Scala or any Java/C# developer who wants to keep up with the newer developments of the software field.
+
